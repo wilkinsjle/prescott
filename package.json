@@ -4,13 +4,10 @@
   "private": true,
   "dependencies": {},
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "deploy": "react-scripts build && gh-pages -d build"
+    "build": "gitbook build",
+    "deploy": "gitbook build && gh-pages -d _book"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.0"
+    "gh-pages": "^2.0.1"
   }
 }
