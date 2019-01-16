@@ -1,0 +1,13 @@
+{
+  "name": "prescott-gitbook",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "build": "gitbook build",
+    "deploy": "gitbook build && gh-pages -d _book"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
