@@ -19,8 +19,9 @@
 - The unofficial [textbook on Scala](https://www.manning.com/books/functional-programming-in-scala), often referred to as the 'Scala Red Book'. Ask around for a copy you can borrow. (Or just google for it 🤔)
 - My best advice for learning new complex languages is to just get hands on as much as you can! So try build something simple from scratch and see how you go, or pair as much as you can while you drive.
 
-## Object Oriented
-- Great cheatsheet [diagrams](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf) for good design patterns and principles
+## Design Patterns
+- Great reference cheatsheet [diagrams](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf) for the GoF (Gang of Four) design patterns and principles
+- An article on Medium that is a good intro/refresher to some of the [GRASP patterns](https://medium.com/@ReganKoopmans/understanding-the-grasp-design-patterns-2cab23c7226e)
 
 ## Testing
 - Confused about testing? What to test? How to test? Watch this awesome [video](https://www.youtube.com/watch?v=URSWYvyc42M) from a Railsconf in 2013 that will motivate and shape your thinking testing.
@@ -30,7 +31,7 @@
 ## Artificial Intelligence
 - A great [video](https://www.youtube.com/watch?v=-O01G3tSYpU) overview on AI and where the field is heading
 - A [thought provoking experiment](https://pursuit.unimelb.edu.au/articles/holding-a-black-mirror-up-to-artificial-intelligence) from the Science Gallery and SocialNUI about the ethics of AI called the 'Biometric Mirror'
-- A great, lengthy [course](https://pursuit.unimelb.edu.au/articles/holding-a-black-mirror-up-to-artificial-intelligence) on Neural Networks (not free)
+- A great, lengthy [Udemy course](https://www.udemy.com/deeplearning/) on Neural Networks/Deep Learning (not free)
 - My old lecturer's [lecture slides](https://github.com/trevorcohn/comp90051-2017/tree/gh-pages/slides) on statistical machine learning. (Warning, very scarily math intensive, but useful if you want to pick out one topic and try to understand how it works.)
 
 ## Other Stuff
