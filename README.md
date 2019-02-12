@@ -11,6 +11,9 @@
 - Great [React tutorial](https://reactjs.org/tutorial/tutorial.html), useful to follow for building your first React app. Find a React buddy or mentor to go through this!
 - Fantastic [video resource on Redux](https://egghead.io/courses/getting-started-with-redux) by the creator himself. Redux is a common (but it's not the only) state management library for React apps.
 - Here are the redux [docs](https://redux.js.org/) if you get stuck
+- We can write most of our css code using [styled components](https://github.com/styled-components/styled-components)
+- Building a [form](https://reactjs.org/docs/forms.html) in your react app is easy but [redux form](https://redux-form.com/7.3.0/docs/gettingstarted.md/) is the way to go if you want to connect them to tour redux store
+- State management with Redux can get pretty heavy sometimes, so another alternative to state management some teams have tried to use is [MobX](https://github.com/mobxjs/mobx). Here are the [intro docs](https://mobx.js.org/intro/overview.html), and here is an [intro tutorial](https://mobx.js.org/getting-started.html)
 
 
 ## Scala
@@ -20,8 +23,8 @@
 - My best advice for learning new complex languages is to just get hands on as much as you can! So try build something simple from scratch and see how you go, or pair as much as you can while you drive.
 
 ## Design Patterns
-- Great reference cheatsheet [diagrams](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf) for the GoF (Gang of Four) design patterns and principles
-- An article on Medium that is a good intro/refresher to some of the [GRASP patterns](https://medium.com/@ReganKoopmans/understanding-the-grasp-design-patterns-2cab23c7226e)
+- Great reference/cheatsheet [diagrams](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf) for the GoF (Gang of Four) design patterns and principles
+- An article on Medium that is a good intro/refresher to some of the common [GRASP patterns](https://medium.com/@ReganKoopmans/understanding-the-grasp-design-patterns-2cab23c7226e)
 
 ## Testing
 - Confused about testing? What to test? How to test? Watch this awesome [video](https://www.youtube.com/watch?v=URSWYvyc42M) from a Railsconf in 2013 that will motivate and shape your thinking testing.
