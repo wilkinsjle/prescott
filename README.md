@@ -15,7 +15,6 @@
 - Building a [form](https://reactjs.org/docs/forms.html) in your react app is easy but [redux form](https://redux-form.com/7.3.0/docs/gettingstarted.md/) is the way to go if you want to connect them to tour redux store
 - State management with Redux can get pretty heavy sometimes, so another alternative to state management some teams have tried to use is [MobX](https://github.com/mobxjs/mobx). Here are the [intro docs](https://mobx.js.org/intro/overview.html), and here is an [intro tutorial](https://mobx.js.org/getting-started.html)
 
-
 ## Scala
 - Fantastic [Scala course](https://github.com/wjlow/intro-to-scala) to follow and learn the Scala fundamentals. It will teach you everything you need to get going. If you are doing it yourself, find a Scala mentor or buddy so you don't miss out on commentary! Even better, sign up for the training course.
 - The [Scala docs](https://docs.scala-lang.org/) are a good place to read up on Scala. This [article/tutorial](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html) in particular might be helpful if you are from a Java background.
@@ -34,8 +33,11 @@
 ## Artificial Intelligence
 - A great [video](https://www.youtube.com/watch?v=-O01G3tSYpU) overview on AI and where the field is heading
 - A [thought provoking experiment](https://pursuit.unimelb.edu.au/articles/holding-a-black-mirror-up-to-artificial-intelligence) from the Science Gallery and SocialNUI about the ethics of AI called the 'Biometric Mirror'
+- I've heard good things about this course at [fast.ai](https://www.fast.ai/)
 - A great, lengthy [Udemy course](https://www.udemy.com/deeplearning/) on Neural Networks/Deep Learning (not free)
 - My old lecturer's [lecture slides](https://github.com/trevorcohn/comp90051-2017/tree/gh-pages/slides) on statistical machine learning. (Warning, very scarily math intensive, but useful if you want to pick out one topic and try to understand how it works.)
+
+
 
 ## Other Stuff
 - Original [Lean Paper](https://www.lean.org/downloads/MITSloan.pdf)
