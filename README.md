@@ -31,13 +31,12 @@
 - But wait, don't worry about the differences. Here's a perspective on why [we shouldn't use mocks nor stubs at all!](https://www.rea-group.com/blog/to-kill-a-mockingtest/)
 
 ## Artificial Intelligence
-- A great [video](https://www.youtube.com/watch?v=-O01G3tSYpU) overview on AI and where the field is heading
+- A great [video](https://www.youtube.com/watch?v=-O01G3tSYpU) overview by DARPA on AI and where the field is heading
+- Great [summary of the environment](https://medium.com/kredo-ai-engineering/agents-and-environment-part-1-the-nature-of-the-environment-4faaec5ec5ca) according to 'first wave' principles (Intelligent Agents)
 - A [thought provoking experiment](https://pursuit.unimelb.edu.au/articles/holding-a-black-mirror-up-to-artificial-intelligence) from the Science Gallery and SocialNUI about the ethics of AI called the 'Biometric Mirror'
-- I've heard good things about this course at [fast.ai](https://www.fast.ai/)
+- I've heard good things about this course at [fast.ai](https://www.fast.ai/) (free!)
 - A great, lengthy [Udemy course](https://www.udemy.com/deeplearning/) on Neural Networks/Deep Learning (not free)
 - My old lecturer's [lecture slides](https://github.com/trevorcohn/comp90051-2017/tree/gh-pages/slides) on statistical machine learning. (Warning, very scarily math intensive, but useful if you want to pick out one topic and try to understand how it works.)
-
-
 
 ## Other Stuff
 - Original [Lean Paper](https://www.lean.org/downloads/MITSloan.pdf)
